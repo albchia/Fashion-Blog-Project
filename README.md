@@ -4,7 +4,7 @@ A very simple website -a Fashion Blog- initially built only within HTML.
 
 This is one of the projects I realized during the Codecademy Course "Intro to HTML".
 
-[See full project](https://albchia.github.io/Animal-Trading-Card/card.html)
+[See full project](https://albchia.github.io/Fashion-Blog-Project/)
 
 ## Table of Contents
 
@@ -13,19 +13,19 @@ This is one of the projects I realized during the Codecademy Course "Intro to HT
 
 ## About the Project
 
-This is the first project made during Udacity classroom on "Intro to Programming".
+This is the first project made during Codecademy classroom on "Intro to HTML".
 
 ### Project Screenshot
 
-My _Giraffe Card_!
+My _Fashion Blog_!
 
-![Giraffe Card](https://user-images.githubusercontent.com/70691672/95225840-86397e80-07fc-11eb-854e-feab35f6fcbd.PNG "My Giraffe Card")
+![Fashion Blog](https://user-images.githubusercontent.com/70691672/95225840-86397e80-07fc-11eb-854e-feab35f6fcbd.PNG "My Giraffe Card")
 
 ### Project Overview
 
 Title: _"Animal Trading Card"_
 
-> GitHub: [link](https://github.com/albchia/Animal-Trading-Card.git)
+> GitHub: [link](https://github.com/albchia/Fashion-Blog-Project.git)
 
 This is a common flow for front-end web developers: typically provided with a design prototype that needs to be translated to a functional actual website.
 
