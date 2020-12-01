@@ -19,7 +19,7 @@ This is the first project made during Codecademy classroom on "Intro to HTML".
 
 My _Fashion Blog_!
 
-![Fashion Blog](https://user-images.githubusercontent.com/70691672/95225840-86397e80-07fc-11eb-854e-feab35f6fcbd.PNG "My Giraffe Card")
+![Fashion-blog-screenshot](https://user-images.githubusercontent.com/70691672/100760319-eeb66d80-33f1-11eb-9bf9-3d734db6426f.PNG)
 
 ### Project Overview
 
