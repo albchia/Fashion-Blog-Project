@@ -35,31 +35,13 @@ The design prototype used for this project is inspired by fashion blogs. The tas
 
 Feel free to customize information and style the webpage.
 
-#### Customize _card.html_
+It's time to build fluency in HTML Fundamentals.
+In this Codecademy Pro project, we are going to practice structure in HTML so you can hone your skills and feel confident taking them to the real world.
 
-1. Replace the placeholder image in `card.html` with your favorite animal's image and information. Don't forget to change the `alt` attribute of the image to the name of the animal chosen.
+This project will help you to understand and master the _building blocks of a webpage_. What's next? A blogger, a developer, a stylish website!
 
-2. Modify `card.html` to include attributes so that you can use `CSS selectors` to style the specific elements required. Important to use meaningful names for CSS classes.
-
-3. Link the `style.css` in your `card.html`. Pay attention to not include any `style` elements or style attributes in the body of the `card.html`.
-
-4. Replace current information with your animal's information:
-    - Animal's name
-    - Interesting facts about the animal
-    - Lists of items for your animal's characteristics
-    - Animal's brief description
-
-#### Customize _style.css_
-
-The `style.css` should apply the following styles to match the design prototype:
-
-- Use an image with a `width` of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
-- The entire card's width should be fixed and it should include the spacing around the image (since image is 300 pixels wide, card should be 300 pixels + spacing on either side). The card should not expand with the browser window
-- Italicized text for the animal's interesting facts
-- Bolded labels for the animal's list items (only labels, not the entire list)
-- No dots for the animal's list items
-- Border around the animal's name, image and information (make sure you set the `border-style`, `border-width` and `border-color`; it's possible to do it in one line)
-- Spacing around the animal's name, image, the list of items and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
+Use your HTML knowledge to create the underlying structure of the blog. 
+Make sure to include pictures, lists, links, and other HTML elements that you have learned.
 
 ## Contributing
 
@@ -67,4 +49,3 @@ This repository is the project created by myself during the Udacity Program.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
-
