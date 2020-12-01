@@ -23,13 +23,13 @@ My _Fashion Blog_!
 
 ### Project Overview
 
-Title: _"Animal Trading Card"_
+Title: _"Fashion Blog"_
 
 > GitHub: [link](https://github.com/albchia/Fashion-Blog-Project.git)
 
 This is a common flow for front-end web developers: typically provided with a design prototype that needs to be translated to a functional actual website.
 
-The design prototype used in this project is inspired by trading cards. The task is to create the card, swapping out the fish with an animal of sudent's choice.
+The design prototype used in this project is inspired by fashion blogs. The task is to create the very basic and simple structure of the page, starting playing with HTML elements.
 
 ### Project Instructions
 
