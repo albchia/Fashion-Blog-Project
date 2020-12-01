@@ -1,6 +1,6 @@
 # Fashion Blog Project
 
-A very simple Fashion Blog initially built only within HTML.
+A very simple website -a Fashion Blog- initially built only within HTML.
 
 This is one of the projects I realized during the Codecademy Course "Intro to HTML".
 
