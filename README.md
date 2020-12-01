@@ -29,13 +29,11 @@ Title: _"Fashion Blog"_
 
 This is a common flow for front-end web developers: typically provided with a design prototype that needs to be translated to a functional actual website.
 
-The design prototype used in this project is inspired by fashion blogs. The task is to create the very basic and simple structure of the page, starting playing with HTML elements.
+The design prototype used for this project is inspired by fashion blogs. The task is to create the very basic and simple structure of a webpage, starting playing with HTML elements.
 
 ### Project Instructions
 
-Feel free to customize information and style so long as you follow the following rules.
-For inspiration, you can try playing around with `background-colors` and `border-radius`.
-You can even add a `box-shadow` around the card.
+Feel free to customize information and style the webpage.
 
 #### Customize _card.html_
 
