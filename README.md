@@ -40,12 +40,12 @@ In this Codecademy Pro project, we are going to practice structure in HTML so yo
 
 This project will help you to understand and master the _building blocks of a webpage_. What's next? A blogger, a developer, a stylish website!
 
-Use your HTML knowledge to create the underlying structure of the blog. 
+Use your HTML knowledge to create the underlying structure of the blog.
 Make sure to include pictures, lists, links, and other HTML elements that you have learned.
 
 ## Contributing
 
-This repository is the project created by myself during the Udacity Program.
+This repository is the project created by myself during the Codecademy Program.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
