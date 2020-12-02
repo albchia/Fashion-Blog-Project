@@ -45,7 +45,7 @@ Make sure to include `pictures`, `lists`, `links`, and other `HTML elements` tha
 
 ## Contributing
 
-This repository is the project created by myself during the Codecademy Program.
+This is the repository of the project created by myself during the Codecademy Program.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
