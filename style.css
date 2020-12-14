@@ -1,3 +1,7 @@
 h1 {
     text-transform: uppercase;
 }
+
+.main-list li {
+    text-transform: uppercase;
+}
