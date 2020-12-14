@@ -8,6 +8,7 @@ body {
     color: white;
     margin: auto;
     padding: 30px;
+    font-size: 18px;
 }
 
 h1 {
@@ -17,7 +18,7 @@ h1 {
 }
 
 .description {
-    font-family: serif;
+    font-style: italic;
     display: block;
     color: black;
     font-weight: 300;
@@ -42,8 +43,8 @@ a {
     font-family: Helvetica;
     color: rgba(255, 255, 255, 0.5);
     font-size: 14px;
-    padding-left: 10px;
-    float: left;
+    padding-right: 10px;
+    float: right;
     text-transform: uppercase;
 }
 
@@ -51,7 +52,7 @@ a {
     -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
     -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
     box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-    float: left;
+    float: right;
     width: 70px;
 }
 
@@ -64,4 +65,5 @@ h2 {
     background-size: cover;
     background-position: center;
     height: 300px;
+    opacity: 0.8;
 }
