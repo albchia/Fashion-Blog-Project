@@ -17,14 +17,17 @@ h1 {
 }
 
 .description {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-    color: rgba(255, 255, 255, 0.5);
+    display: block;
+    border-bottom: 1px solid white;
+    color: white;
     font-weight: 100;
     font-size: 22px;
     line-height: 24px;
     padding-bottom: 30px;
     width: 70%;
-    padding-left: 10px;
+    margin-left: 20px;
+    top: 80%;
+    position: relative;
 }
 
 a {
@@ -54,4 +57,11 @@ a {
 
 h2 {
     text-align: left;
+}
+
+.image {
+    background-image: url("https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
