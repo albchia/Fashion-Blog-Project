@@ -16,6 +16,21 @@ h1 {
     padding-top: 100px;
 }
 
+.description {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 24px;
+    padding-bottom: 30px;
+    width: 70%;
+    padding-left: 10px;
+}
+
+a {
+    color: whitesmoke;
+}
+
 .main-list li {
     text-transform: uppercase;
 }
@@ -35,4 +50,8 @@ h1 {
     box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
     float: left;
     width: 70px;
+}
+
+h2 {
+    text-align: left;
 }
