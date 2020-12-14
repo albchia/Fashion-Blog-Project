@@ -43,6 +43,10 @@ This project will help you to understand and master the _building blocks of a we
 Use your HTML knowledge to create the underlying structure of the blog.
 Make sure to include `pictures`, `lists`, `links`, and other `HTML elements` that you have learned.
 
+### Project Follow Up
+
+As I'd like to improve little by little this project, adding CSS elements and rendering better the page, you maybe will discover the project is different from the initial project.
+
 ## Contributing
 
 This is the repository of the project created by myself during the Codecademy Program.
