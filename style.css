@@ -17,21 +17,21 @@ h1 {
 }
 
 .description {
+    font-family: serif;
     display: block;
-    border-bottom: 1px solid white;
-    color: white;
-    font-weight: 100;
+    color: black;
+    font-weight: 300;
     font-size: 22px;
     line-height: 24px;
     padding-bottom: 30px;
     width: 70%;
-    top: 80%;
+    top: 20%;
+    left: 20%;
     position: relative;
-    margin-top: 20px;
 }
 
 a {
-    color: whitesmoke;
+    color: black;
 }
 
 .main-list li {
@@ -60,7 +60,7 @@ h2 {
 }
 
 .image {
-    background-image: url("https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-image: url("https://images.pexels.com/photos/1830447/pexels-photo-1830447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-size: cover;
     background-position: center;
     height: 300px;
