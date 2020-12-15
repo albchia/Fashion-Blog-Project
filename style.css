@@ -11,14 +11,40 @@ body {
     font-size: 18px;
 }
 
+p {
+    font-weight: bold;
+}
+
 h1 {
     font-size: 40px;
     text-transform: uppercase;
     padding-top: 100px;
 }
 
+h2 {
+    text-align: left;
+}
+
+.image-writer {
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: right;
+    width: 70px;
+}
+
+.byline {
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    padding-right: 10px;
+    float: right;
+    text-transform: uppercase;
+}
+
 .description {
     font-style: italic;
+    font-weight: bold;
     display: block;
     color: black;
     font-weight: 300;
@@ -31,39 +57,18 @@ h1 {
     position: relative;
 }
 
-a {
-    color: black;
-}
-
-.main-list li {
-    text-transform: uppercase;
-}
-
-.byline {
-    font-family: Helvetica;
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 14px;
-    padding-right: 10px;
-    float: right;
-    text-transform: uppercase;
-}
-
-.image-writer {
-    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-    float: right;
-    width: 70px;
-}
-
-h2 {
-    text-align: left;
-}
-
 .image {
     background-image: url("https://images.pexels.com/photos/1830447/pexels-photo-1830447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-size: cover;
     background-position: center;
     height: 300px;
     opacity: 0.8;
+}
+
+a {
+    color: black;
+}
+
+.main-list li {
+    text-transform: uppercase;
 }
