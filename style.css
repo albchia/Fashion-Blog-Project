@@ -44,8 +44,8 @@ h2 {
 }
 
 .description {
-    font-style: italic;
-    font-weight: bold;
+    font-family: Georgia;
+    font-weight: 100;
     text-align: center;
     display: block;
     color: black;
@@ -81,5 +81,6 @@ a {
     padding-bottom: 0px;
     margin-bottom: auto;
     background-color: rgba(255, 255, 255, 0.397);
+    position: center;
 
 }
